@@ -1,5 +1,5 @@
 
-inputFile = "d:\\Coding\\AdventOfCode\\1input.txt"
+inputFile = "1input.txt"
 
 elves = []
 
