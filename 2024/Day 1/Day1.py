@@ -1,8 +1,8 @@
 import re
 
 dag = "1"
-inputFile = "input"+dag+".txt"
-inputTestFile = "input"+dag+"-test.txt"
+inputFile = "input.txt"
+inputTestFile = "input-test.txt"
 
 inputStrings = []
 def readInput(fileName):
