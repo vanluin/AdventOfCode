@@ -78,7 +78,7 @@ def part2():
 			newpages = reorder_pages(pages)
 			answer += int(newpages[len(newpages)//2])
 
-	print("Part 2:", answer)
+	print("Part 2: ", answer)
 
 
 if __name__ == "__main__":
