@@ -1,5 +1,3 @@
-from matplotlib import lines
-
 TEST = False
 
 if TEST:
